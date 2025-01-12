@@ -215,4 +215,4 @@ contract Vote {
     function emergencyStopVoting() public onlyCommissioner {
         stopVoting = true;
     }
-}
+} 
