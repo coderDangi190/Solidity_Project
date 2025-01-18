@@ -1,5 +1,5 @@
 # Solidity_Project
--> SampleStorage
--> SampleWallet
--> Lottery
--> TokenCreation
+-> SampleStorage \n
+-> SampleWallet \n
+-> Lottery \n
+-> TokenCreation \n
