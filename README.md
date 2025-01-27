@@ -4,3 +4,4 @@
 # SampleWallet 
 # Lottery 
 # TokenCreation 
+#ERC20 token
